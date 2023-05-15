@@ -1,0 +1,75 @@
+ul > li > a.orange:hover {
+	color: white;
+	background-color: #FF6600;
+	text-decoration: none;
+}
+ul > li > a.scarlet:hover {
+	color: white;
+	background-color: #ff2d03;
+	text-decoration: none;
+}
+.nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
+	color: #FFFFFF;
+}
+ul > li > a.red:hover {
+	color: white;
+	background-color: #C40A2A;
+	text-decoration: none;
+}
+ul > li > a.burgundy:hover {
+	color: white;
+	background-color: #84154D;
+	text-decoration: none;
+}
+ul > li > a.yellow:hover {
+	color: white;
+	background-color: #ffbf00;
+	text-decoration: none;
+}
+ul > li > a.purple:hover {
+	color: white;
+	background-color: #600fab;
+	text-decoration: none;
+}
+ul > li > a.violet:hover {
+	color: white;
+	background-color: #c40a99;
+	text-decoration: none;
+}
+ul > li > a.blue:hover {
+	color: white;
+	background-color: #0f19ab;
+	text-decoration: none;
+}
+ul > li > a.mulberry:hover {
+	color: white;
+	background-color: #c4537d;
+	text-decoration: none;
+}
+ul > li > a.green:hover {
+	color: white;
+	background-color: #098346;
+	text-decoration: none;
+}
+ul > li > a.blue_green:hover {
+	color: white;
+	background-color: #1399BE;
+	text-decoration: none;
+}
+
+.page-item.active .page-link {
+	color: #FFFFFF !important;
+	background: #772B91;
+}
+
+.btn-secondary {
+	color: #fff !important;
+	background-color: #772B91 !important;
+	border-color: #772B91 !important;
+}
+
+.mobile-nav-toggle i {
+	  color: #5C768D !important;
+	border: 2px solid #5C768D !important;
+	  border-radius: 5px;
+}
